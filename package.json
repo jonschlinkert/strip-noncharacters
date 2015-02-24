@@ -1,6 +1,6 @@
 {
   "name": "strip-noncharacters",
-  "description": "Strip non-characters from a string.",
+  "description": "Strip non-character code points from a string.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/strip-noncharacters",
   "author": {

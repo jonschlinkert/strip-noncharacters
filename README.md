@@ -1,6 +1,6 @@
 # strip-noncharacters [![NPM version](https://badge.fury.io/js/strip-noncharacters.svg)](http://badge.fury.io/js/strip-noncharacters)
 
-> Strip non-characters from a string.
+> Strip non-character code points from a string.
 
 ## Install with [npm](npmjs.org)
 

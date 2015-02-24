@@ -22,9 +22,22 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "mocha": "*"
+  "dependencies": {
+    "noncharacter-regex": "^0.1.0"
   },
-  "keywords": []
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "characters",
+    "codepoint",
+    "detect",
+    "non",
+    "non-characters",
+    "noncharacters",
+    "regex",
+    "remove",
+    "strip"
+  ]
 }

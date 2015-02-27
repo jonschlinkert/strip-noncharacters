@@ -1,13 +1,16 @@
 {
   "name": "strip-noncharacters",
   "description": "Strip non-character code points from a string.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/strip-noncharacters",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
-  "repository": "jonschlinkert/strip-noncharacters",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/strip-noncharacters.git"
+  },
   "bugs": {
     "url": "https://github.com/jonschlinkert/strip-noncharacters/issues"
   },
@@ -23,7 +26,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "noncharacter-regex": "^0.1.0"
+    "noncharacter-regex": "^0.1.1"
   },
   "devDependencies": {
     "mocha": "*",

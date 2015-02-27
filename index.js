@@ -1,8 +1,8 @@
 /*!
  * strip-noncharacters <https://github.com/jonschlinkert/strip-noncharacters>
  *
- * Copyright (c) 2015 Jon Schlinkert.
- * Licensed under the MIT license.
+ * Copyright (c) 2015, Jon Schlinkert.
+ * Licensed under the MIT License.
  */
 
 'use strict';
